@@ -1,0 +1,1 @@
+Bei der Komprimierung ist noch zu beachten, dass statt dem typischen $(anzahl)(buchstabe), der erste Buchstabe einer solchen folge nicht komprimiert wird. Es wird also dem Format (Buchstabe) $ (anzahl) (buchstabe) folgen. 
